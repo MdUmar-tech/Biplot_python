@@ -24,5 +24,7 @@ import matplotlib.pyplot as plt
 
 # Insert the code from "Bidirectional_Bar_Plot.py" here
 
-![bidirectional_bar_plot](https://github.com/MdUmar-tech/Biplot_python/assets/76789751/66ac3fff-2ee4-4dbe-9cab-cce53940c1d6)
+<img width="612" alt="Screenshot 2024-02-07 at 11 36 42 AM" src="https://github.com/MdUmar-tech/Biplot_python/assets/76789751/b5eb84de-36d6-4a6a-989e-0208bf05537f">
+
+
 
