@@ -15,16 +15,10 @@ This Python script generates a bidirectional bar plot using matplotlib and panda
 3. Open the script in your preferred Python environment (e.g., Jupyter Notebook, Python IDE).
 4. Run the script to generate the bidirectional bar plot.
 
-## Example
-Below is an example of how to use the script:
-
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
 
 # Insert the code from "Bidirectional_Bar_Plot.py" here
+![bidirectional_bar_plot](https://github.com/MdUmar-tech/Biplot_python/assets/76789751/9637124f-be83-416d-939c-f5a347759507)
 
-<img width="612" alt="Screenshot 2024-02-07 at 11 36 42 AM" src="https://github.com/MdUmar-tech/Biplot_python/assets/76789751/b5eb84de-36d6-4a6a-989e-0208bf05537f">
 
 
 
