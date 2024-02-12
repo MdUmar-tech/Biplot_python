@@ -23,7 +23,7 @@ plt.figure(figsize=(8, 12))
 ax = plt.gca()
 df2[df2['index'] == 'D'].plot(kind='bar', x='name', y='value', color='y', ax=ax, position=0.5, width=0.2)  # Adjust the width to 0.3
 df2[df2['index'] != 'D'].pivot(index='name', columns='index', values='value').plot(kind='bar', ax=ax, width=0.3)
-
+#df2[df2['index'] .isin(['A', 'B', 'C'])].pivot(index='name', columns='index', values='value').plot(kind='bar', ax=ax, width=0.3)
 # Set the y-axis scale
 #plt.yscale('symlog', linthresh=0.01)
 
